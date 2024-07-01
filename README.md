@@ -9,4 +9,6 @@ In addition, this report also presents the effects of various relevant factors, 
 
 This report was developed by utilising Power BI.
 
-Please refer to the static version of this interactive report in this link: 
+Please refer to the interactive version of this report in this link: [Interactive report](https://github.com/Tien-le98/Road_crashes/blob/main/Road_crashes_SA.pbix)
+
+Please refer to the statis version of this report in this link: [Statis report](https://github.com/Tien-le98/Road_crashes/blob/main/Road_crashes_SA.pdf)
