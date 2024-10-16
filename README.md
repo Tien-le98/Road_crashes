@@ -90,8 +90,8 @@ It can be seen that less crashes happening on sealed roads in 2022 than in 2021,
 ### Effect of Horizontal Align and Severity on the total number of road crashes
 The highest number of crashes occurred on straight road, followed by Curved road with Open View. In addition, more than 85% of road crashes caused minor injuries or Property Damage Only happened on straight roads. But in terms of crashes with serious injuries and fatalities, it can be seen that the proportion of Curved road with open view was much higher than its figure for other severity levels, which mean that curved roads can be one of main factors lead to crashes with higher severity levels. For example, in terms of road crashes with fatalities, upto 30% total road crashes occurred on Curved road with View open.
 
-Severity |	Horizontal Align |	Total Crashes by Horiztontal Align and Severity	| Total crashes	Proportion (%)
----|---|---|---|
+Severity |	Horizontal Align |	Total Crashes by Horiztontal Align and Severity	| Total crashes |	Proportion (%)
+---|---|---|---|---
 Fatal | Straight road | 155 | 246 | 63
 Fatal | Curved, View open | 72 | 246 | 29
 Fatal | Curved, View obscured | 19 | 246 | 8
@@ -139,7 +139,7 @@ In addition, the quantity of crashes with DUI involved in hit fixed object was l
 Drivers take responsibility for most road crashes. Animals took responsibility for road crashes happening in Country and Metropolitan, not in City. In terms of road crashes with injuries and fatalities, the proportion of road crashed happened due to Pedestrian increased, which means that the responsibility of Pedestrian were more significant in crashes with higher severity levels.
 
 <p align="center" width="100%">
-    <img width="70%" src="https://github.com/Tien-le98/Road_crashes/blob/main/entitycode_severity.png">
+    <img width="60%" src="https://github.com/Tien-le98/Road_crashes/blob/main/entitycode_severity.png">
 </p>
 
 ## Conclusion
