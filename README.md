@@ -10,7 +10,7 @@ An analysis report and a Power BI interactive report were built to show details 
 
 In addition, this report also presents the effects of various relevant factors, such as road condition, traffic control signs, weather condition, daytime or night, and the involvement of DUI or drugs, on the frequency of road crashes.
 
-Please refer to the analysis report in this link: [Analysis report](https://github.com/Tien-le98/Road_crashes/blob/main/Road_crashes_SA.pdf)
+Please refer to the analysis report in this link: [Analysis report](https://github.com/Tien-le98/Road_crashes/blob/main/Road_Crashes_in_SA.ipynb)
 
 
 Please refer to the interactive version of the Power BI report in this link: [Interactive report](https://github.com/Tien-le98/Road_crashes/blob/main/Road_crashes_SA.pbix)
