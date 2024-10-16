@@ -111,14 +111,9 @@ The majority of crashes happened on roads without any traffic control signals (N
 
 ### Effect of Weather Condition and DayNight on the total number of road crashes
 
+<a href="url"><img src="https://github.com/Tien-le98/Road_crashes/blob/main/weathercond_quantity_daynight.png" align="right" width = "50%" ></a>
 In general, the majority of crashes happened in no raining condition. The proportion of crashes in no raining condition in 2022 was lower than the figure for 2021. However, the opposite was true for raining condition, because the percentage of crashes occuring in raining condition in 2022 was higher than the figure for 2021. 
-
 Most of crashes occurred on daylight instead of night, on both raining and not raining condition. In addition, during raining condition, the quantity of road crashes happend during daylight was even higher than the figure for night. This issue happened can be because of human perspective. When people drive during daylight, they can have clearer visibility, hence they can drive less carefully than at night, and it leads to higher quantity of crashes during daylight than night.
-
-<p align="center" width="100%">
-    <img width="70%" src="https://github.com/Tien-le98/Road_crashes/blob/main/weathercond_quantity_daynight.png">
-</p>
-
 In addition, the proportion of some crash types such as Hit fixed object, hit object on road, and hit pedestrian was higher at night on raining condition than during daylight. For example, in terms of Hit Object on Road, during daylight, only about 10% of crashes due to the rain. However, at night, more than 23% of crashes occurred because of the rain.
 
 DayNight | Weather Condition | Crash Type | Total crashes by Weather Condition | Total crashes | Proportion (%)
@@ -130,9 +125,7 @@ Night | Raining | Hit Object on Road | 15 | 65 | 23
 
 ### Effect of Human behaviour on the total number of road crashes
 
-<p align="right" width="100%">
-    <img width="50%" src="https://github.com/Tien-le98/Road_crashes/blob/main/dui_drug_severity.png">
-</p>
+<a href="url"><img src="https://github.com/Tien-le98/Road_crashes/blob/main/dui_drug_severity.png" align="right" width = "50%" ></a>
 
 Most crashes happened when there was no DUI or Drugs Involved. And the proportion of crashes with DUI or Drug Involves was negligible, in comparison to the figure for crashes without DUI and Drugs. In crashes having injuries and fatalities, the contribution of crashes DUI involved and Drug involved were higher than its proportion in crashes with Property damage only. It means if a crash has injuries, or fatalities, it is more likely that there is a participation of DUI and Drugs.
 
