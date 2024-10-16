@@ -130,13 +130,7 @@ Night | Raining | Hit Object on Road | 15 | 65 | 23
 
 ### Effect of Human behaviour on the total number of road crashes
 
-Most crashes happened when there was no DUI or Drugs Involved. And the proportion of crashes with DUI or Drug Involves was negligible, in comparison to the figure for crashes without DUI and Drugs.
-
-<p align="right" width="100%">
-    <img width="50%" src="https://github.com/Tien-le98/Road_crashes/blob/main/drug_dui_quantity.png">
-</p>
-
-In crashes having injuries and fatalities, the contribution of crashes DUI involved and Drug involved were higher than its proportion in crashes with Property damage only. It means if a crash has injuries, or fatalities, it is more likely that there is a participation of DUI and Drugs.
+Most crashes happened when there was no DUI or Drugs Involved. And the proportion of crashes with DUI or Drug Involves was negligible, in comparison to the figure for crashes without DUI and Drugs. In crashes having injuries and fatalities, the contribution of crashes DUI involved and Drug involved were higher than its proportion in crashes with Property damage only. It means if a crash has injuries, or fatalities, it is more likely that there is a participation of DUI and Drugs.
 
 <p align="right" width="100%">
     <img width="50%" src="https://github.com/Tien-le98/Road_crashes/blob/main/dui_drug_severity.png">
@@ -146,12 +140,10 @@ In addition, the quantity of crashes with DUI involved in hit fixed object was l
 
 ### Effect of Responsible entity on the total number of road crashes
 
-Drivers take responsibility for most road crashes. Animals took responsibility for road crashes happening in Country and Metropolitan, not in City.
+Drivers take responsibility for most road crashes. Animals took responsibility for road crashes happening in Country and Metropolitan, not in City. In terms of road crashes with injuries and fatalities, the proportion of road crashed happened due to Pedestrian increased, which means that the responsibility of Pedestrian were more significant in crashes with higher severity levels.
 
-In terms of road crashes with injuries and fatalities, the proportion of road crashed happened due to Pedestrian increased, which means that the responsibility of Pedestrian were more significant in crashes with higher severity levels.
-
-<p align="right" width="100%">
-    <img width="50%" src="https://github.com/Tien-le98/Road_crashes/blob/main/entitycode_severity.png">
+<p align="center" width="100%">
+    <img width="70%" src="https://github.com/Tien-le98/Road_crashes/blob/main/entitycode_severity.png">
 </p>
 
 ## Conclusion
