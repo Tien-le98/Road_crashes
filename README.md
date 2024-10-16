@@ -159,5 +159,5 @@ Through this analysis, there are several main points as belows:
 + Most crashes happened when there was no DUI or Drugs Involved. And the proportion of crashes with DUI or Drug Involves was negligible, in comparison to the figure of no DUI and no Drugs. In crashes having injuries and fatalities, the contribution of crashes DUI involved and Drug involved were higher than its proportion in crashes with Property damage only. It means if a crash has injuries, or fatalities, it is more likely that there is a participation of DUI and Drugs.
 + Drivers take responsibility for most road crashes. Animals took responsibility for road crashes happening in Country and Metropolitan, not in City. In terms of road crashes with Serious Injury and Fatalities, the proportion of Pedestrian increased, which means that the responsibility of Pedestrian were more significant in crashes with higher severity levels.
 
-Please refer to the analysis report in this link: [Analysis report](https://github.com/Tien-le98/Road_crashes/blob/main/Road_Crashes_in_SA.ipynb)
+Please refer to the [code](https://github.com/Tien-le98/Road_crashes/blob/main/Road_Crashes_in_SA.ipynb) used in the analysis project for more details.
 
