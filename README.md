@@ -120,7 +120,7 @@ Most of crashes occurred on daylight instead of night, on both raining and not r
 In addition, the proportion of some crash types such as Hit fixed object, hit object on road, and hit pedestrian was higher at night on raining condition than during daylight. For example, in terms of Hit Object on Road, during daylight, only about 10% of crashes due to the rain. However, at night, more than 23% of crashes occurred because of the rain.
 
 DayNight | Weather Condition | Crash Type | Total crashes by Weather Condition | Total crashes | Proportion (%)
----|---|---|---|---|---|
+---|---|---|---|---|---
 Daylight | Not raining | Hit Object on Road | 78 | 86 | 91
 Daylight | Raining | Hit Object on Road | 8 | 86 | 9
 Night | Not raining | Hit Object on Road | 50 | 65 | 77
@@ -128,7 +128,7 @@ Night | Raining | Hit Object on Road | 15 | 65 | 23
 
 ### Effect of Human behaviour on the total number of road crashes
 
-<a href="url"><img src="https://github.com/Tien-le98/Road_crashes/blob/main/dui_drug_severity.png" align="right" width = "30%" ></a>
+<a href="url"><img src="https://github.com/Tien-le98/Road_crashes/blob/main/dui_drug_severity.png" align="right" width = "40%" ></a>
 
 Most crashes happened when there was no DUI or Drugs Involved. And the proportion of crashes with DUI or Drug Involves was negligible, in comparison to the figure for crashes without DUI and Drugs. In crashes having injuries and fatalities, the contribution of crashes DUI involved and Drug involved were higher than its proportion in crashes with Property damage only. It means if a crash has injuries, or fatalities, it is more likely that there is a participation of DUI and Drugs.
 
