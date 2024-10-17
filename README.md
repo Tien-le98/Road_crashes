@@ -160,9 +160,9 @@ Through this analysis, there are several main points as belows:
 + Drivers take responsibility for most road crashes. Animals took responsibility for road crashes happening in Country and Metropolitan, not in City. In terms of road crashes with Serious Injury and Fatalities, the proportion of Pedestrian increased, which means that the responsibility of Pedestrian were more significant in crashes with higher severity levels.
 
 To reduce the number of road crashes in South Australia, several solutions can be considered:
++ Consider area speed limit in the Country areas to control the severity level of crashes, minimize the number of crashes with major injuries and fatalities happened due to high area speed in the country areas.
 + Check traffic signals to evaluate if they are effective in controlling the traffic and whether new necessary control signals should be established on roads, especially in Metropolitan and Country areas, as well as on curved roads.
 + Raise people awareness about the dangers of driving with DUI or Drugs involvement, as well as raise people carefulness even when driving during daylight under good weather (no raining).
-+ Consider area speed limit in the Country areas to control the severity level of crashes, minimize the number of crashes with major injuries and fatalities happened due to high area speed in the country areas.
 + Resolve the problem that road crashes occurred due to animals and pedestrians by some methods such as installing animal warning signals, and building fences on both sides of road (especially on curved roads).
 
 Please refer to the [code](https://github.com/Tien-le98/Road_crashes/blob/main/Road_Crashes_in_SA.ipynb) used in the analysis project for more details.
