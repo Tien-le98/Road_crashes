@@ -1,6 +1,6 @@
 # Road Crashes in South Australia from 2020 to 2022
 
-_Author: Clara Le_
+_Author: Pham Thuy Tien (Clara) Le_
 
 _Date: 17/10/2024_
 ___
