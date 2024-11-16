@@ -7,10 +7,14 @@ ___
 
 ## INTRODUCTION
 
-The analysis project was aimed to define actionable and reasonable solutions to reduce the number of road crashes in South Australia through analyzing the dataset of road crashes in South Australia from 2020 to 2022. Besides evaluating the trend of road crashes' quantities over years, this project also measured the effects of various relevant factors, such as road condition, traffic control signs, weather condition, daytime or night, and the involvement of DUI or drugs, on the frequency of road crashes. An interactive report of this analysis project was also created for users' interaction, so users can employ this Power BI report to perform their own analysis if needed. Please refer to the interactive version of the Power BI report in this link: [Interactive report](https://github.com/Tien-le98/Road_crashes/blob/main/Road_crashes_SA.pbix). Besides, the statis version of the Power BI report also can be found in this link: [Static report](https://github.com/Tien-le98/Road_crashes/blob/main/Road_crashes_SA_report.pdf).
+The analysis project aimed to define actionable and reasonable solutions to reduce the number of road crashes in South Australia by analyzing the dataset of road crashes in South Australia from 2020 to 2022. Besides evaluating the trend of road crash quantities over the years, this project also measured the effects of various relevant factors, such as road conditions, traffic control signs, weather conditions, daytime or night, and the involvement of DUI or drugs, on the frequency of road crashes. An interactive report of this analysis project was also created for users' interaction, so users can employ this Power BI report to perform their own analysis if needed. 
+
+Please refer to the interactive version of the Power BI report in this link: [Interactive report](https://github.com/Tien-le98/Road_crashes/blob/main/Road_crashes_SA.pbix). 
+
+Besides, the static version of the Power BI report also can be found in this link: [Static report](https://github.com/Tien-le98/Road_crashes/blob/main/Road_crashes_SA_report.pdf).
 
 ## Data collection, data cleaning and pre-processing
-The "Road crashes in South Australia" dataset was gather from South Australian Government Data Directory website. This dataset went through various pre-processing steps including modifying data type of each variable, removing invalid values, handling missing values, encoding categorical variables, and removing duplicates. The original dataset comprised about 65000 road crashes' records from 2018 to 2022, however, only about 37000 records from 2020 to 2022 were considered in this analysis project. Main variables were:
+The "Road crashes in South Australia" dataset was gathered from the South Australian Government Data Directory website. This dataset went through various pre-processing steps including modifying the data type of each variable, removing invalid values, handling missing values, encoding categorical variables, and removing duplicates. The original dataset comprised about 65000 road crash records from 2018 to 2022, however, only about 37000 records from 2020 to 2022 were considered in this analysis project. The main variables were:
 + Stats Area: A code defining whether the road crash occurred (City, Metro, Country Area)
 + Total Units: The total number of units involved in a road crash. Total Units = Total Cas + Total Property Damage Only
 + Total Cas: Total number of casualties in a road crash. Total Cas = Total Fats + Total SI + Total MI
@@ -25,7 +29,7 @@ The "Road crashes in South Australia" dataset was gather from South Australian G
 + Vertical Align: Defines the vertical alignment of the road at the sight of the crash (Slope, Bottom of Hill,...)
 + Road Surface: Defines the road surface type at the crash location (Sealed or Unsealed road)
 + Weather Cond: Defines the weather condition at the time and location of the crash (Not Raining, or Raining)
-+ DayNight: Defines that a road crash occured during daylight or at night
++ DayNight: Defines that a road crash occurred during daylight or at night
 + Crash Type: Defines the road crash type (Hit Fixed Object, Hit Animal, Hit Pedestrian,...)
 + Entity Code: Defines the entity deemed to be responsible for the road crash (Driver, Animal, Pedestrian,...)
 + CSEF Severity: Defines the road crash severity, classified by the highest injury severity sustained in the crash (Serious Injury - SI, Minor Injury - MI, Property Damage Only - PDO)
@@ -34,7 +38,7 @@ The "Road crashes in South Australia" dataset was gather from South Australian G
 + Drugs Involved: Involved if at least one controller in the crash tested positive for a prescribed drug (THC (cannabis), methylamphetamine (speed, ice or crystal meth) or MDMA (ecstasy)) (Yes - Y, No - N).
 
 ## Exploratory Data Analysis (EDA)
-### Trend of road crashes' quantities in South Australia over years (2020-2022)
+### Trend of road crashes quantities in South Australia over the years (2020-2022)
 
 The number of road crashes in 2021 and 2022 were higher than the figure for 2020. The reason can be a lot of more vehicles were used to travel on roads in 2021 and 2022 than in 2020.
 
@@ -64,7 +68,7 @@ In Fatality, the number of crashes occured in the Country was even slightly high
 
 The average area speed (shown in red lines) in Country was the highest, followed by the figure for Metropolitan, and the least speed was in City. This can be why least crashes happening in the City.
 
-The majority of road crashses happened in areas allowing speeds between 50km/h and 60km/h, which are driving speeds in the Metropolitan areas. There is not a lot of road crashes happened in Country areas, which allow up to 100km/h. Although the area speed of Metropolitan was lower than the figure for Country, the total quantity of road crashes in Metropolitan was much higher than the figure for Country, it can be because there is a lot more vehicles travelling on roads in Metropolitan than in Country. Therefore, area speed might be not a major factor affecting the quantity of road crashes, but the number of vehicles travelling on roads may be a significant factor.
+The majority of road crashes happened in areas allowing speeds between 50km/h and 60km/h, which are driving speeds in the Metropolitan areas. There is not a lot of road crashes happened in Country areas, which allow up to 100km/h. Although the area speed of Metropolitan was lower than the figure for Country, the total quantity of road crashes in Metropolitan was much higher than the figure for Country, it can be because there is a lot more vehicles travelling on roads in Metropolitan than in Country. Therefore, area speed might be not a major factor affecting the quantity of road crashes, but the number of vehicles travelling on roads may be a significant factor.
 
 In Country areas, generally, the increase in area speed can result in the higher level of severity of road crashes. That can be why there was higher quantity of road crashes with fatalities in Country than in other areas.
 
